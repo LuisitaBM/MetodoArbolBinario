@@ -22,7 +22,7 @@ public class MiArbolitobnUwU {
         BinaryTree<Familiar> ramaMaterna = new BinaryTree<>(
                 new Familiar("Maria Jose Miranda", 38, "Maquillista", false, "Navojoa, Sonora"),
                 new BinaryTree<>(abuelaMat),
-                new BinaryTree<>(abuelaMat)
+                new BinaryTree<>(abueloMat)
         );
 
         Familiar personaRaiz = new Familiar("Luisita Benitez Miranda", 19, "Estudiante en ingenieria en software", false, "Navojoa, Sonora");
